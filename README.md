@@ -14,7 +14,7 @@ A repo of UX Design tips & resources.
 
 [Google Fonts - Material Symbols Guide](https://developers.google.com/fonts/docs/material_symbols)
 
-[Digital Texturing and Painting](https://www.peachpit.com/store/digital-texturing-and-painting-9780735709188?w_ptgrevartcl=Reference+Materials%2c+Textures%2c+and+Practical+Stuff+for+3D+Animation_24823)
+[Digital Texturing and Painting By Owen Demers](https://www.peachpit.com/store/digital-texturing-and-painting-9780735709188?w_ptgrevartcl=Reference+Materials%2c+Textures%2c+and+Practical+Stuff+for+3D+Animation_24823)
 
 2.3 Creating a Morgue
 
