@@ -22,4 +22,4 @@ A repo of UX Design tips & resources.
 
 >[Figure 2.1 Example of a morgue.](https://ptgmedia.pearsoncmg.com/images/chap2_0735709181/elementLinks/02fig01.gif)
 
->They all inspire me to create. Use your morgue not only as reference for reproducing textures for a project, but also to define your likes and dislikes—to see how they change over time. >Morgues can be loose pages and items categorized into folders or pasted into sketchbooks or scrapbooks. This library-like collection is for you. Make it your own!
+>They all inspire me to create. Use your morgue not only as reference for reproducing textures for a project, but also to define your likes and dislikes—to see how they change over time. Morgues can be loose pages and items categorized into folders or pasted into sketchbooks or scrapbooks. This library-like collection is for you. Make it your own!
