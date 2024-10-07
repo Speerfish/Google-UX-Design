@@ -33,3 +33,5 @@ A repo of UX Design tips & resources.
 ![NNg Jakob's Usability Heuristic Summary1](https://github.com/user-attachments/assets/46cbd196-c912-4129-b23e-d834a77d212b)
 
 [Jakob Nielsen - Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+
+[Jakob Nielsen - Interaction Elasticity](https://www.nngroup.com/articles/interaction-elasticity/)
