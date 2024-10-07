@@ -27,3 +27,9 @@ A repo of UX Design tips & resources.
 >[Figure 2.1 Example of a morgue.](https://ptgmedia.pearsoncmg.com/images/chap2_0735709181/elementLinks/02fig01.gif)
 
 >They all inspire me to create. Use your morgue not only as reference for reproducing textures for a project, but also to define your likes and dislikes—to see how they change over time. Morgues can be loose pages and items categorized into folders or pasted into sketchbooks or scrapbooks. This library-like collection is for you. Make it your own!
+
+[Jakob Nielsen - 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+[NNg Jakob's Usability Heuristic Summary1.pdf](https://github.com/user-attachments/files/17273079/NNg.Jakob.s.Usability.Heuristic.Summary1.pdf)
+
+[Jakob Nielsen - Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
