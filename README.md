@@ -18,7 +18,7 @@ A repo of UX Design tips & resources.
 
 >2.3 Creating a Morgue
 
->An invaluable tool to start building right now is a morgue; a collection of images, photographs, samples and examples of colors and materials, and the like (see Figure 2.1). Your morgue should contain anything that visually inspires or affects you both in positive and in negative ways. It is a visual diary of sorts made from various sources, even your own work. It can >contain real materials such as clothes, paper, rusty nails, washers—whatever you want to keep on record. For instance, I keep graphic design images to use for reference of type styles or >current color usage.
+>An invaluable tool to start building right now is a morgue; a collection of images, photographs, samples and examples of colors and materials, and the like (see Figure 2.1). Your morgue should contain anything that visually inspires or affects you both in positive and in negative ways. It is a visual diary of sorts made from various sources, even your own work. It can contain real materials such as clothes, paper, rusty nails, washers—whatever you want to keep on record. For instance, I keep graphic design images to use for reference of type styles or current color usage.
 
 >[Figure 2.1 Example of a morgue.](https://ptgmedia.pearsoncmg.com/images/chap2_0735709181/elementLinks/02fig01.gif)
 
