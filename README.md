@@ -35,3 +35,7 @@ A repo of UX Design tips & resources.
 [Jakob Nielsen - Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 [Jakob Nielsen - Interaction Elasticity](https://www.nngroup.com/articles/interaction-elasticity/)
+
+![google-ux-design-professional-certificate 2](https://github.com/user-attachments/assets/860847e6-4594-4f15-a473-3e9b10b21076)
+
+[Book appointment with Speerfish](https://speerfish-denver.square.site/s/appointments)
