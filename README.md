@@ -30,6 +30,6 @@ A repo of UX Design tips & resources.
 
 [Jakob Nielsen - 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
-[NNg Jakob's Usability Heuristic Summary1.pdf](https://github.com/user-attachments/files/17273079/NNg.Jakob.s.Usability.Heuristic.Summary1.pdf)
+![NNg Jakob's Usability Heuristic Summary1](https://github.com/user-attachments/assets/46cbd196-c912-4129-b23e-d834a77d212b)
 
 [Jakob Nielsen - Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
